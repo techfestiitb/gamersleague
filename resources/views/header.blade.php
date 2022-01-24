@@ -36,29 +36,6 @@
             <div class="nk-nav-table">
                 <a href="" class="nk-nav-logo" style="white-space: nowrap;"> <img src="images/gl.png" style="height:60px" alt="Gamersleague"> </a>
                 <ul class="nk-nav nk-nav-right hidden-md-down" data-nav-mobile="#nk-nav-mobile">
-                    <li style="text-align: center;">
-                        <a target="_blank" href="#" class="nk-nav-logo" style="white-space: nowrap;">
-                            <img src="http://techfest.org/2019/sponsors/2019/img/port.jpg" style="height:40px;max-width: 100%; transform: scale(1)" alt="oneplus">
-                        </a>
-                    </li>
-                    <li style="text-align: center;">
-                        <p style="margin: 0px"> Server partner</p>
-                        <a target="_blank" href="https://www.sostronk.com/welcome" class="nk-nav-logo" style="white-space: nowrap;">
-                            <img src="images/Sostronk Logo white.png" style="height:60px;  transform: scale(0.85)" alt="Sostronk">
-                        </a>
-                    </li>
-                    <li style="text-align: center;">
-                        <p style="margin: 0px">Network partner </p>
-                        <a target="_blank" href="https://www.tp-link.com/in/" class="nk-nav-logo" style="white-space: nowrap;">
-                            <img src="images/TP-Link OG logo.png" style="height:60px" alt="TPLink">
-                        </a>
-                    </li>
-                    <li style="text-align: center;">
-                        <p style="margin: 0px"></p>
-                        <a target="_blank" href="#" class="nk-nav-logo" style="white-space: nowrap;">
-                            <img src="http://techfest.org/2019/sponsors/2019/img/segate.jpg" style="height:60px" alt="TPLink">
-                        </a>
-                    </li>
                     <li> <a href=""> Home</a> </li>
                     <li> <a href="{{route('csgo')}}"> CS GO </a></li>
                     <li> <a href="{{route('pubg')}}"> PUBG </a></li>
@@ -138,7 +115,7 @@
 <div id="nk-nav-mobile" class="nk-navbar nk-navbar-side nk-navbar-left-side nk-navbar-overlay-content hidden-lg-up">
     <div class="nano">
         <div class="nano-content">
-            <a href="/" class="nk-nav-logo"> <img src="http://techfest.org/2019/tf_date.png" alt="" style="width: 100%"> </a>
+            <a href="/" class="nk-nav-logo"> <img src="tf_date.png" alt="" style="width: 100%"> </a>
             <div class="nk-navbar-mobile-content">
                 <ul class="nk-nav"> </ul>
             </div>
