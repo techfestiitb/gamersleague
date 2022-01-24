@@ -36,7 +36,7 @@
             <div class="nk-nav-table">
                 <a href="" class="nk-nav-logo" style="white-space: nowrap;"> <img src="images/gl.png" style="height:60px" alt="Gamersleague"> </a>
                 <ul class="nk-nav nk-nav-right hidden-md-down" data-nav-mobile="#nk-nav-mobile">
-                    <li> <a href=""> Home</a> </li>
+                    <li> <a href="{{route('index')}}"> Home</a> </li>
                     <li> <a href="{{route('csgo')}}"> CS GO </a></li>
                     <li> <a href="{{route('pubg')}}"> PUBG </a></li>
 {{--                    <li> <a href="{{route('dota')}}"> DOTA 2 </a></li>--}}
